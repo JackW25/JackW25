@@ -5,7 +5,8 @@
 
 Some projects I am working on:
   [YT Downloader](https://rainure-yt-downloader.herokuapp.com/yt-downloader)
-  Discord Music Bot
+  
+  [Discord Music Bot](https://discord.com/oauth2/authorize?client_id=%20882000780951969822&permissions=292422011968&scope=bot)
 
 <!---
 JackW25/JackW25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
