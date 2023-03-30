@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jack Wonnacott
-- 👀 I am from Canada, self taught in beginner HTML/CSS, with decent experience with NodeJS
+- 👀 I am from Canada, self taught in beginner HTML/CSS, with experience in NodeJS and Express. Some experience with Nginx and Web Servers
 - 🌱 I try to make unique and useful projects that can help many different people with different tasks.
 - 🧠 I am always trying to learn new things and improve upon what I know!
 - 🎶 In my spare time I enjoy music, going to the gym, and practicing on the guitar. I'm into a lot of Psych/Classical rock and need more music so feel free to send some over *please*
