@@ -16,7 +16,8 @@ Some of my languages:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) Limited Knowledge
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
+( Limited Knowledge with C )
 
 
 <!---
