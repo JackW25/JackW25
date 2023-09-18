@@ -5,8 +5,7 @@
 - 🎶 I am into Psych/Classic Rock, and also a beginner on the electric guitar.
 
 Some projects I am working on:
-  [YT Downloader](https://www.rezfile.net)
-  
+  [RezFile](https://www.rezfile.net)
   [Discord Music Bot](https://discord.com/oauth2/authorize?client_id=%20882000780951969822&permissions=292422011968&scope=bot)
 
 Some of my languages:
