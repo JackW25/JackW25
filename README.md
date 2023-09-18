@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jack Wonnacott
-- 👀 I am from Canada, self taught in beginner HTML/CSS, with experience in NodeJS and Express. Some experience with Nginx and Web Servers
+- 👀 I am from Canada, self taught with 2 years experience in HTML/CSS, EJS, and in NodeJS and Express. Experienced in NGINX and Server Management
 - 🌱 I try to make unique and useful projects that can help many different people with different tasks.
 - 🧠 I am always trying to learn new things and improve upon what I know!
-- 🎶 In my spare time I enjoy music, going to the gym, and practicing on the guitar. I'm into a lot of Psych/Classical rock and need more music so feel free to send some over *please*
+- 🎶 I am into Psych/Classic Rock, and also a beginner on the electric guitar.
 
 Some projects I am working on:
   [YT Downloader](https://www.rezfile.net)
@@ -16,10 +16,6 @@ Some of my languages:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) <br />
-
-( Limited Knowledge with C and Python)
 
 
 <!---
