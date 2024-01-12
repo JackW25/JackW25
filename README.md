@@ -1,19 +1,20 @@
-- 👋 Hi, I’m Jack Wonnacott
-- 👀 I am from Canada, self taught with 2 years experience in HTML/CSS, EJS, and in NodeJS and Express. Experienced in NGINX and Server Management
-- 🌱 I try to make unique and useful projects that can help many different people with different tasks.
-- 🧠 I am always trying to learn new things and improve upon what I know!
-- 🎶 I am into Psych/Classic Rock, and also a beginner on the electric guitar.
+# 👋 Hi there!
 
-Some projects I am working on:
+I am an HS student in Vancouver BC, self taught in NodeJS, HTML, Electron, & DiscordJS with over 3 years experience
+Always looking for new methods and ways to improve my code
+
+# A Bit About Me
+I am an HS student in Vancouver, BC
+Lover of Psych and Classic rock
+Openly gay, and helping to try and improve mental health support and suicide prevention for LGBT youth!
+
+Hallo! Ik spreek een beetje Nederlands!
+
+# Some Projects:
   [RezFile](https://www.rezfile.net)
   [Discord Music Bot](https://discord.com/oauth2/authorize?client_id=%20882000780951969822&permissions=292422011968&scope=bot)
 
-Some languages and envrionments I work with:
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord&logoColor=white)
+  These projects began my coding experience, so expect bugs and pretty gnarly code. Always working to improve them!
 
 
 <!---
