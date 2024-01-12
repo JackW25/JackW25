@@ -4,9 +4,10 @@ I am an HS student in Vancouver BC, self taught in NodeJS, HTML, Electron, & Dis
 Always looking for new methods and ways to improve my code
 
 # A Bit About Me
-I am an HS student in Vancouver, BC
-Lover of Psych and Classic rock
-Openly gay, and helping to try and improve mental health support and suicide prevention for LGBT youth!
+- I am an HS student in Vancouver, BC
+- Lover of Psych and Classic rock
+- Openly gay, and helping to try and improve mental health support and suicide prevention for LGBT youth!
+
 
 Hallo! Ik spreek een beetje Nederlands!
 
