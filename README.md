@@ -12,7 +12,7 @@ Always looking for new methods and ways to improve my code
 Hallo! Ik spreek een beetje Nederlands!
 
 # Some Projects:
-  [RezFile](https://www.rezfile.net)
+  [RezFile](https://www.rezfile.net)  
   [Discord Music Bot](https://discord.com/oauth2/authorize?client_id=%20882000780951969822&permissions=292422011968&scope=bot)
 
   These projects began my coding experience, so expect bugs and pretty gnarly code. Always working to improve them!
